@@ -1,1 +1,2 @@
 com.splunk.streaming.user.functions.JoinStringsFunction
+com.splunk.streaming.user.functions.DecryptFunction
